@@ -1,0 +1,18 @@
+# Grok’s Code Encryptor
+A simple Caesar cipher tool for text encryption.
+
+## How to Use
+1. Install Python (https://www.python.org/).  
+2. Download `encryptor.py` from this repository.  
+3. Run: `python encryptor.py`.  
+4. Enter text and a shift value (1-25) to encrypt.
+
+## Features
+- Encrypts text by shifting letters by a set number of positions.  
+- Preserves spaces and non-letter characters.  
+
+## Example
+- Input: "hello", shift 3 → Output: "khoor"
+
+## Support
+If you find this useful, consider supporting me: [Boosty](https://boosty.to/grokcode/donate)
